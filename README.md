@@ -1,7 +1,7 @@
 
 
-- am epic
-- python,htm & css,lua (learning java and in the future more)
-- i have mostly Python & HTML Projects
+- python,htm & css and lua
+- i have mostly Python & HTML Projects Privately
+- Learning Java & SQL
 
 -best programmer
