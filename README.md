@@ -1,7 +1,8 @@
 
 
-- python,htm & css and lua
-- i have mostly Python & HTML Projects Privately
-- Learning Java & SQL
+- HTML (&CSS),Java,Python & Lua
+- Learning Java (Better),Python(More In-depth).
+- 
+- -Boilerplate code habits
 
 -best programmer
