@@ -1,7 +1,7 @@
 
 
 - HTML (&CSS),Java,Python & Lua
-- Learning Java (Better),Python(More In-depth).
+- Learning Java (Better) (soon C++...).
   
 - -Boilerplate code habits
 
