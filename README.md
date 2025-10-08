@@ -1,8 +1,8 @@
 
 
 - HTML (&CSS),Java,Python & Lua
-- Learning Java (Better) (soon C++...).
+- Learning C++
   
 - -Boilerplate code habits
 
--best programmer
+- Uni student 🥀
